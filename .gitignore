@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# yt-dlp / downloads (videos, audio, partials, metadata)
+downloads/
+*.mp4
+*.mkv
+*.webm
+*.m4a
+*.mp3
+*.opus
+*.part
+*.ytdl
+*.info.json
